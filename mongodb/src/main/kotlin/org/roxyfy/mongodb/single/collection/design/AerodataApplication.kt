@@ -1,11 +1,12 @@
-package org.roxyfy.mongodb
+package org.roxyfy.mongodb.single.collection.design
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class MongodbApplication
+class AerodataApplication
 
 fun main(args: Array<String>) {
-    runApplication<MongodbApplication>(*args)
+    runApplication<AerodataApplication>(*args)
 }
+

@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: mongodb-study-app
+  data:
+    mongodb:
+      uri: uri
+
+server:
+  port: 8080
