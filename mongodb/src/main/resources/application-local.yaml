@@ -3,7 +3,7 @@ spring:
     name: mongodb-study-app
   data:
     mongodb:
-      uri: uri
+      uri: mongodb+srv://epogadaev:9a6OxlCcL3LTjwum@cluster0.ucuszax.mongodb.net/roxyfy?retryWrites=true&w=majority
 
 server:
   port: 8080
